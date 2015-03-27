@@ -73,6 +73,7 @@ a, a:hover, a:active {
 }
 
 .page-header {
+  padding-top: 15px;
   padding-bottom: 32px;
 }
 
