@@ -121,6 +121,10 @@ a, a:hover, a:active {
   list-style-type: none;
 }
 
+.section-listing li {
+  margin-bottom: 1rem;
+}
+
 .section-listing span {
   float: right;
   color: #999999;
