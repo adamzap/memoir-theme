@@ -127,6 +127,9 @@ time {
 .section-listing span {
   float: right;
   color: #999999;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  line-height: 3.4rem;
 }
 
 @media (max-width: 660px) {
@@ -137,6 +140,7 @@ time {
   .section-listing span {
     float: none;
     display: block;
+    line-height: 2.2rem;
   }
 }
 
