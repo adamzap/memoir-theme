@@ -87,7 +87,9 @@ footer {
 }
 
 footer img {
+  float: left;
   margin-top: 6px;
+  margin-right: 16px;
 }
 
 footer a, footer a:hover, footer a:active {
