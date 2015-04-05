@@ -167,6 +167,10 @@ html {
   text-transform: uppercase;
 }
 
-.top h3 span {
+.top a {
+  color: #4A4A4A;
+}
+
+.top span {
   color: #D94040;
 }
